@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "OPO",
+        "PDP",
+        "OPO"
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "mekaprocess:obsidian_struct"
+        },
+        
+        "P":
+        {
+            "item": "minecraft:oak_planks"
+        },
+        
+         "D":
+        {
+            "item": "mekaprocess:diamond_cell"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mekaprocess:obsidian_cell",
+        "count": 1
+    }
+}

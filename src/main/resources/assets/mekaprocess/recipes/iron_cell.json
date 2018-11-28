@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "IPI",
+        "PCP",
+        "IPI"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "mekaprocess:iron_struct"
+        },
+        
+        "P":
+        {
+            "item": "minecraft:oak_planks"
+        },
+        
+         "C":
+        {
+            "item": "minecraft:chest"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mekaprocess:iron_cell",
+        "count": 1
+    }
+}

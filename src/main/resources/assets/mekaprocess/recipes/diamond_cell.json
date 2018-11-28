@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DPD",
+        "PGP",
+        "DPD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "mekaprocess:diamond_struct"
+        },
+        
+        "P":
+        {
+            "item": "minecraft:oak_planks"
+        },
+        
+         "G":
+        {
+            "item": "mekaprocess:gold_cell"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mekaprocess:diamond_cell",
+        "count": 1
+    }
+}

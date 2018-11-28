@@ -1,0 +1,8 @@
+{
+   "parent": "block/cube_bottom_top",
+   "textures": {
+   	   "side" : "mekaprocess:blocks/gold_cell",
+   	   "bottom": "mekaprocess:blocks/gold_cell_top",
+       "top": "mekaprocess:blocks/gold_cell_top"
+   }
+}

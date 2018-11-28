@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "GSG",
+        "GGG"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:glowstone"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:sea_lantern"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mekaprocess:ultimate_lightsource",
+        "count": 1
+    }
+}

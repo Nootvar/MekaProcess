@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GPG",
+        "PIP",
+        "GPG"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "mekaprocess:gold_struct"
+        },
+        
+        "P":
+        {
+            "item": "minecraft:oak_planks"
+        },
+        
+         "I":
+        {
+            "item": "mekaprocess:iron_cell"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mekaprocess:gold_cell",
+        "count": 1
+    }
+}

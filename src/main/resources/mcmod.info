@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mekaprocess",
+  "name": "MekaProcess",
+  "description": "Process your ore in a new way.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["natvar"],
+  "credits": "natvar",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "mekaprocess:diamond_cell" }
+    }
+}
