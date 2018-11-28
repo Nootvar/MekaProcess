@@ -3,32 +3,27 @@
     
     "pattern":
     [
-        "DPD",
-        "PGP",
-        "DPD"
+        "QPQ",
+        "P P",
+        "QPQ"
     ],
     
     "key":
     {
-        "D":
+        "Q":
         {
-            "item": "mekaprocess:diamond_struct"
+            "item": "mekaprocess:quartz_struct"
         },
         
         "P":
         {
             "item": "minecraft:planks", "data":0
-        },
-        
-         "G":
-        {
-            "item": "mekaprocess:gold_cell"
         }
     },
     
     "result":
     {
-        "item": "mekaprocess:diamond_cell",
+        "item": "mekaprocess:quartz_shell",
         "count": 1
     }
 }

@@ -17,7 +17,7 @@
         
         "P":
         {
-            "item": "minecraft:oak_planks"
+            "item": "minecraft:planks", "data":0
         },
         
          "D":

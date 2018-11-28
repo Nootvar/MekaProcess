@@ -15,5 +15,7 @@ public class ModItems {
 	public static final Item GOLD_STRUCT = new ItemBase("gold_struct");
 	public static final Item DIAMOND_STRUCT = new ItemBase("diamond_struct");
 	public static final Item OBSIDIAN_STRUCT = new ItemBase("obsidian_struct");
+	public static final Item QUARTZ_STRUCT = new ItemBase("quartz_struct");
+
 	
 }

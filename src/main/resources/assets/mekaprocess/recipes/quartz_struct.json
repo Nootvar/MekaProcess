@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SQS",
+        "QQQ",
+        "SQS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "Q":
+        {
+            "item": "minecraft:quartz"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mekaprocess:quartz_struct",
+        "count": 1
+    }
+}

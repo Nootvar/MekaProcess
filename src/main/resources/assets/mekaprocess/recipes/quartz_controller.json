@@ -3,32 +3,32 @@
     
     "pattern":
     [
-        "IPI",
+        "QPQ",
         "PCP",
-        "IPI"
+        "QPQ"
     ],
     
     "key":
     {
-        "I":
+        "Q":
         {
-            "item": "mekaprocess:iron_struct"
+            "item": "mekaprocess:quartz_struct"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:comparator"
         },
         
         "P":
         {
-            "item": "minecraft:planks", "data":0
-        },
-        
-         "C":
-        {
-            "item": "minecraft:chest"
+            "item": "minecraft:piston"
         }
     },
     
     "result":
     {
-        "item": "mekaprocess:iron_cell",
+        "item": "mekaprocess:quartz_controller",
         "count": 1
     }
 }

@@ -3,11 +3,15 @@ item.iron_struct.name=Iron Struct
 item.gold_struct.name=Gold Struct
 item.diamond_struct.name=Diamond Struct
 item.obsidian_struct.name=Obsidian Struct
+item.quartz_struct.name=Quartz Struct
 
 //Block
 tile.iron_cell.name=Iron Cell
 tile.gold_cell.name=Gold Cell
 tile.diamond_cell.name=Diamond Cell
 tile.obsidian_cell.name=Obsidian Cell
+
+tile.quartz_shell.name=Quartz Shell
+tile.quartz_controller.name=Quartz Controller
 
 tile.ultimate_lightsource.name=Ultimate Lightsource

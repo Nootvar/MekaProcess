@@ -17,6 +17,9 @@ public class ModBlocks {
 	public static final Block DIAMOND_CELL = new DiamondCell("diamond_cell", Material.IRON);
 	public static final Block OBSIDIAN_CELL = new ObsidianCell("obsidian_cell", Material.IRON);
 	
+	public static final Block QUARTZ_SHELL = new BlockBase("quartz_shell", Material.IRON);
+	public static final Block QUARTZ_CONTROLLER = new BlockBase("quartz_controller", Material.IRON);
+	
 	public static final Block ULTIMATE_LIGHTSOURCE = new UltimateLightsource("ultimate_lightsource", Material.GLASS);
 	
 }
